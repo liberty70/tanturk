@@ -1,4 +1,4 @@
 tanturk
 =======
 
-bizim projemiz
+bizim proje
