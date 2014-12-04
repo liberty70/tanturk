@@ -1,4 +1,4 @@
 tanturk
 =======
 
-bizim proje
+izinsiz alma
